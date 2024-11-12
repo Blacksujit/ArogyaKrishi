@@ -223,7 +223,7 @@ classes = {
 
 # app = Flask(__name__)
 # API key for OpenWeatherMap
-# weather_api_key = ''
+# weather_api_key =''
 
 load_dotenv()  # Load environment variables from .env
 
@@ -751,7 +751,7 @@ def fertilizer_recommendation():
 
 @ app.route('/fertilizer-predict', methods=['POST'])
 def fert_recommend():
-    title = 'Harvestify - Fertilizer Suggestion'
+    title = 'Arogya Krishi - Fertilizer Suggestion'
 
     crop_name = str(request.form['cropname'])
     N = int(request.form['nitrogen'])
@@ -759,7 +759,7 @@ def fert_recommend():
     K = int(request.form['pottasium'])
     # ph = float(request.form['ph'])
 
-    df = pd.read_csv('Data/fertilizer.csv')
+    df = pd.read_csv('D:\\new_crop\\Apna_kisan_MVp\\Apna_kisan_MVP\data\\fertilizer.csv')
 
     nr = df[df['Crop'] == crop_name]['N'].iloc[0]
     pr = df[df['Crop'] == crop_name]['P'].iloc[0]
