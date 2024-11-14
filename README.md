@@ -32,9 +32,81 @@ Theme - Agri&amp;tech Background: Crop diseases can devastate yields leading to 
 
 8.) At last we have iterated on our approach to look out if any breaches our setback is there or not  , if it is then we have to restart the things from scratch but there wasnt , after all these brainstorming with the team  and other things we were ready to move to the POC stage with  our idea.
 
-9.) so thats all these was our approach for the problem statement 
+9.) so thats all these was our approach for the problem statement .
 
 
+### Project Structure:
+
+```
+
+Arogya_Krishi_MVP/
+|
+│
+├── app.py                          # Main application file
+├── requirements.txt                # List of dependencies
+├── .env                            # Environment variables
+│
+├── models/                         # Directory for machine learning models
+│   ├── RandomForest.pkl            # Crop recommendation model
+│   ├── DenseNet121v2_95.h5        # Soil type prediction model
+│   ├── SoilNet_93_86.h5           # SoilNet model
+│   └── plant_disease_model.pth     # (if applicable) Disease prediction model
+│
+├── utils/                          # Utility functions and classes
+│   ├── disease.py                  # Disease-related utilities
+│   ├── fertilizer.py               # Fertilizer-related utilities
+│   └── model.py                    # Model-related utilities (e.g., ResNet9)
+│
+├── uploads/                        # Directory for uploaded files
+│   └── (user-uploaded images)      # Images uploaded by users
+│
+├── static/                         # Static files (CSS, JS, images)
+│   ├── css/                        # CSS files
+│   ├── js/                         # JavaScript files
+│   └── images/                     # Images used in the application
+│
+│──── templates/                      # HTML templates for rendering
+│    ├── index.html                  # Main page
+│    ├── signup.html                 # Signup page
+│    ├── login.html                  # Login page
+│    ├── dashboard.html              # User dashboard
+│    ├── crop.html                   # Crop recommendation page
+│    ├── fertilizer.html              # Fertilizer suggestion page
+│    ├── disease.html                # Disease prediction page
+│    ├── disease-result.html         # Result page for disease prediction
+│    ├── crop-result.html            # Result page for crop prediction
+│    └── try_again.html              # Error handling page
+│
+│
+│────.gitattributes
+│
+│────.gitignore
+│
+│────README.md
+│
+│────crop-disease-detection.ipynb
+│
+│────config.py
+│
+│
+│────crop_prediction_based_on_numeric_value.ipynb
+│
+│
+│────notebooks/
+│        
+│──── instance/         
+│        │──── farmers_database.db
+│
+│
+│-----images/
+│
+│──── data/
+│          ...csv files
+│
+│──── Data_Preprocessed/
+          .....cleaned_data
+ 
+```
 ### <h2>🚀 Demo</h2>
 
 <p>Experience ArogyaKrishi in action: <a href="https://youtu.be/yBajAQB9Kas?si=ilwix0wwiN533UYi" target="_blank">Watch the Demo</a></p>
