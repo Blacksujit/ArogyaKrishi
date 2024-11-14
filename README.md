@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/Blacksujit/ArogyaKrishi/image?forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
-## 🌟This is our Project or prototype development to the SIH Hackathon 2024🌟
+## 🌟This is our Project or prototype development to the SIH Hackathon 2024
 
 ###  👉 Problem statement ID: SIH - 1638 
 
