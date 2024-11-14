@@ -320,6 +320,19 @@ python app.py
 We are Open For Contributions please  create an  seperate branch and make your chnages and raise and PR if it
 matches the Project requirements and follow all the guidelines we will happy to merge it .
 
+## Contributors: (TEAM ANANT)
+
+1.) Abhishek Kute
+
+2.) Sanskar Awati
+
+3.) Manas Kotian
+
+4.) Minal 
+
+5.) Tanushri
+
+
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT.
