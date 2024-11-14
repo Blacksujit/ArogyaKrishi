@@ -40,7 +40,7 @@ Theme - Agri&amp;tech Background: Crop diseases can devastate yields leading to 
 <p>Experience ArogyaKrishi in action: <a href="https://youtu.be/yBajAQB9Kas?si=ilwix0wwiN533UYi" target="_blank">Watch the Demo</a></p>
   
   
-<h2>🧐 Features</h2>
+<h2>🧐 Features  (ArogyaKrishi Comes with) :</h2>
 
 Here're some of the project's best features:
 
