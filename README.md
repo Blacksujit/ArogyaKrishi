@@ -194,4 +194,4 @@ Technologies used in the project:
 
 This project is licensed under the MIT
 
-<h2>💖Like my work?</h2>
+ 
