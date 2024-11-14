@@ -320,7 +320,7 @@ python app.py
 We are Open For Contributions please  create an  seperate branch and make your chnages and raise and PR if it
 matches the Project requirements and follow all the guidelines we will happy to merge it .
 
-## Contributors: (TEAM ANANT)
+### Contributors: (TEAM ANANT)
 
 1.) Abhishek Kute
 
