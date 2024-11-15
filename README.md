@@ -212,7 +212,7 @@ Problem: Farmers often work in isolation and may lack access to shared knowledge
 Solution: The application can facilitate community engagement by allowing users to share their experiences, tips, and best practices. This fosters a sense of community and encourages collaborative learning among farmers.
 
   
-<h2>🧐 Features  (ArogyaKrishi Comes with) :</h2>
+## 🧐 Features  (ArogyaKrishi Comes with) :
 
 **Here're some of the project's best features:**
 
@@ -228,7 +228,7 @@ Solution: The application can facilitate community engagement by allowing users 
 *   Farmer Management
 *   Fertilizer Recommendations Based On Soil
 
-<h2>💻 Tech Stack Used :</h2>
+## 💻 Tech Stack Used :
 
 **Technologies used in the project:**
 
@@ -247,7 +247,7 @@ Solution: The application can facilitate community engagement by allowing users 
 *   SQL-alchemy
 
 
-<h2>🛠️ Installation Steps:</h2>
+## 🛠️ Installation Steps:
 
 <p>1. Clone the Project</p>
 
@@ -337,7 +337,7 @@ python app.py
 8.Scalability
 
 
-<h2>🍰 Contribution Guidelines:</h2>
+## 🍰 Contribution Guidelines:
 
 We are Open For Contributions please  create an  seperate branch and make your chnages and raise and PR if it
 matches the Project requirements and follow all the guidelines we will happy to merge it .
@@ -355,7 +355,7 @@ matches the Project requirements and follow all the guidelines we will happy to 
 5.) Tanushri
 
 
-<h2>🛡️ License:</h2>
+## 🛡️ License:
 
 This project is licensed under the MIT.
 
