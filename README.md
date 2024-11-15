@@ -12,23 +12,23 @@
 
 ## 🧾🧾 Table of Contents:
 
-- [Problem Statement](#-problem-statement)
-- [Our Approach](#-our-approach)
+- [Problem Statement ID](#-problem-statement-id-sih---1638)
+- [Our Approach](#-our-approach-)
 - [Project Structure](#-project-structure)
-- [System Architecture Design](#-system-architecture-design)
-- [Live Demos](#-live-demos)
+- [System Architecture Design](#-system-architecture-design-)
+- [Live Demos](#-live-demos-web-and-app)
 - [Presentation](#-presentation)
-- [Research and References](#-research-and-references)
-- [Problem ArogyaKrishi Addresses and Solves](#-problem-arogya-krishi-addresses-and-solves)
-- [Features](#-features)
-- [Tech Stack Used](#-tech-stack-used)
-- [Installation Steps](#-installation-steps)
+- [Research and References](#-research-and-references-some-proven-theories-which-validate-this-poc)
+- [Problem ArogyaKrishi Addresses and Solves](#️-problem-arogyakrishi-addresses-and-solves-)
+- [Features](#-features-arogya-krishi-comes-with-)
+- [Tech Stack Used](#-built-with)
+- [Installation Steps](#️-installation-steps)
 - [Feasibility Analysis](#-feasibility-analysis)
 - [Potential Challenges & Risks](#-potential-challenges--risks)
 - [Impact and Benefits](#-impact-and-benefits)
 - [Contribution Guidelines](#-contribution-guidelines)
-- [Contributors](#-contributors)
-- [License](#-license)
+- [Contributors](#-contributors-team-anant)
+- [License](#️-license)
 
 
 ###  👉 Problem statement ID: SIH - 1638 
