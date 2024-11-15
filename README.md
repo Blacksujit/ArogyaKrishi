@@ -9,6 +9,28 @@
 
 ## 🌟This is our Project or prototype development to the SIH Hackathon 2024
 
+
+## 🧾🧾 Table of Contents:
+
+- [Problem Statement](#-problem-statement)
+- [Our Approach](#-our-approach)
+- [Project Structure](#-project-structure)
+- [System Architecture Design](#-system-architecture-design)
+- [Live Demos](#-live-demos)
+- [Presentation](#-presentation)
+- [Research and References](#-research-and-references)
+- [Problem ArogyaKrishi Addresses and Solves](#-problem-arogya-krishi-addresses-and-solves)
+- [Features](#-features)
+- [Tech Stack Used](#-tech-stack-used)
+- [Installation Steps](#-installation-steps)
+- [Feasibility Analysis](#-feasibility-analysis)
+- [Potential Challenges & Risks](#-potential-challenges--risks)
+- [Impact and Benefits](#-impact-and-benefits)
+- [Contribution Guidelines](#-contribution-guidelines)
+- [Contributors](#-contributors)
+- [License](#-license)
+
+
 ###  👉 Problem statement ID: SIH - 1638 
 
 Theme - Agri&amp;tech Background: Crop diseases can devastate yields leading to significant financial losses for farmers. Early detection and timely intervention are crucial for effective management. Description: Develop an AI-driven system that analyzes crop images and environmental data to predict potential disease outbreaks. This system will provide farmers with actionable insights and treatment recommendations to mitigate risks. Expected Solution: A mobile and web-based application that utilizes machine learning algorithms to identify crop diseases and suggest preventive measures and treatments based on real-time data.
