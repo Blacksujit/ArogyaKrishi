@@ -151,7 +151,7 @@ https://github.com/user-attachments/assets/129d96a3-861c-46a2-99bd-3d54791d74ac
 
 ## 👓 Presentation :
 
- [see PPT Presentation Here TEAM ANANT](https://github.com/user-attachments/files/17748441/SIH_TEAM_ANANT_CROP_DISEASE-3.pdf)
+ [see PPT Presentation Here by TEAM ANANT](https://github.com/user-attachments/files/17748441/SIH_TEAM_ANANT_CROP_DISEASE-3.pdf)
 
 
 ## 📚📚 Research And References: (Some Proven Theories' which validates this POC)
@@ -320,21 +320,21 @@ python app.py
 
 •	**Uniqueness:**
 
-1.Identify crop diseases
+1. Identify crop diseases
 
-2.Predict disease outbreaks
+2. Predict disease outbreaks
 
-3.Recommend preventive measure
+3. Recommend preventive measure
 
-4.Optimize resource allocation 
+4. Optimize resource allocation 
 
-5.Enhance agricultural productivity 
+5. Enhance agricultural productivity 
 
-6.Real-time performance 
+6. Real-time performance 
 
-7.Userfriendliness 
+7. Userfriendliness 
 
-8.Scalability
+8. Scalability
 
 
 ## 🍰 Contribution Guidelines:
