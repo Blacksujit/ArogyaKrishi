@@ -38,7 +38,7 @@ Theme - Agri&amp;tech Background: Crop diseases can devastate yields leading to 
 
 ### 💡 Our Approach :
 
-1.) Divided  the problem statement into chunks and piecies .
+1.) Divided  the problem statement into chunks and pieces .
 
 2.) begain the searching with the each segement in the research papaers , you can visit [kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) , and [UCI Machine learning Datasets](https://archive.ics.uci.edu/dataset/486/rice+leaf+diseases) , for the references and datasets,
 
