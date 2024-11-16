@@ -161,13 +161,12 @@ https://github.com/user-attachments/assets/129d96a3-861c-46a2-99bd-3d54791d74ac
 
 2.	Chinese cabbage leaf disease prediction and classification using Naive Bayes VGG-19 convolution deep neural network (2024) : https://ieeexplore.ieee.org/document/10407076
 
-3.	Image-based crop disease detection with federated learning (2023): https://www.nature.com/articles/ s41598-023-46218-5
+3.	Image-based crop disease detection with federated learning (2023): https://www.nature.com/articles/s41598-023-46218-5
 
-4.	Deep learning-based crop disease prediction with web application (2023) : https://www.
-sciencedirect.com/science/article/pii/S2666154323002715
+4.	Deep learning-based crop disease prediction with web application (2023) : https://www.sciencedirect.com/science/article/pii/S2666154323002715
 
 5.	Seasonal Crops Disease Prediction and Classification Using Deep Convolutional Encoder Network (2019): https://link.springer.com/article/10.1007/s00034-019-01041-0
-   Cropin app link: https://www.cropin.com/farming-   apps#:~:text=Cropin%20Grow%20is%20a%20robust, stakeholders%20in%20the%20agri%2Decosystem.
+   Cropin app link: https://www.cropin.com/farming-apps#:~:text=Cropin%20Grow%20is%20a%20robust, stakeholders%20in%20the%20agri%2Decosystem.
 
 
 
