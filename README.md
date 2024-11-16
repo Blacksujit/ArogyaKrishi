@@ -252,7 +252,7 @@ Arogya Krishi is a comprehensive agricultural application designed to address va
 *   SQL-alchemy
 
 
-## 🛠️ Installation Steps:
+## 🛠️ Installation Steps , To run with git (Manuall Process):
 
 <p>1. Clone the Project</p>
 
@@ -301,6 +301,72 @@ HUGGINGFACE_LOGIN_TOKEN=YOUR_HUGGING_FACE_TOKEN
 python app.py 
 ```
 
+## ✨🔮 To Run Locally Using Docker (preferred way) :
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed on your machine:
+
+- [Docker](https://www.docker.com/get-started)
+- [Docker Compose](https://docs.docker.com/compose/install/)
+
+### Setup Instructions:
+
+### Step 1: Clone the Repository
+
+``Clone the project repository to your local machine:``
+
+
+```
+git clone https://github.com/Blacksujit/ArogyaKrishi.git
+```
+
+
+### Step 2: Create a `.env` File
+
+``Create a `.env` file in the root directory of the project and add your API keys:``
+
+```
+OPEN_WEATHER_APIKEY=YOUR_WEATHER_API_KEY
+HUGGINGFACE_LOGIN_TOKEN=YOUR_HUGGING_FACE_TOKEN
+```
+
+
+### Step 3: Build and Run the Docker Containers
+
+``Use Docker Compose to build and run the application:``
+
+```
+docker-compose up --build
+```
+
+
+###🪄 This command will:
+
+**- Build the Docker image defined in the `Dockerfile`.**
+**- Start the web application and the database service defined in `docker-compose.yml`.**
+
+### Step 4: Access the Application
+
+``Once the containers are running, you can access the application in your web browser at:``
+
+http://localhost:5000
+
+
+### Step 5: Stopping the Application
+
+**To stop the application, press `CTRL + C` in the terminal where the Docker containers are running. You can also run:**
+
+
+```docker-compose down```
+
+### ⭕⭕ Notes:(IMP instructions)
+
+``YOUR_WEATHER_API_KEY and YOUR_HUGGING_FACE_TOKEN with your actual API keys in the .env file.``
+
+``Ensure that the requirements.txt file is present in your project directory with all necessary dependencies listed.``
+
+
 ## 📈 Feasibility Analysis:
 
 •	**High Feasibility:** Advanced ML models and cloud deployment enable real-time disease prediction.
@@ -308,6 +374,7 @@ python app.py
 •	**Scalability:** Supports multilingual features
 
 •	**Personalized Alerts**: Farmers get alerts based on crop type, region, and disease severity.
+
 
 ## ⚓ Potential Challenges & Risks:
 
@@ -350,8 +417,33 @@ python app.py
 
 ## 🍰 Contribution Guidelines:
 
-We are Open For Contributions please  create an  seperate branch and make your chnages and raise and PR if it
+We welcome contributions!   please  create an  seperate branch and make your chnages and raise and PR if it
 matches the Project requirements and follow all the guidelines we will happy to merge it .
+
+
+1. ``Fork the repository.``
+
+2. Create your feature branch:
+   
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+
+4. Commit your changes:
+   
+   ```bash
+   git commit -m 'Add some feature'
+   ```
+
+6. Push to the branch:
+   
+   ```bash
+   git push origin feature/YourFeature
+   ```
+
+8. ``Open a pull request.``
+
+
 
 ### ✨ Contributors: (TEAM ANANT)
 
