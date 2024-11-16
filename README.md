@@ -182,34 +182,39 @@ Arogya Krishi is a comprehensive agricultural application designed to address va
 
 **1. Crop Disease Detection:**
 
-Problem: Farmers often struggle to identify diseases affecting their crops, leading to reduced yields and economic losses. Early detection is crucial for effective management and treatment.
+**Problem:** Farmers often struggle to identify diseases affecting their crops, leading to reduced yields and economic losses. Early detection is crucial for effective management and treatment.
 
-Solution: Arogya Krishi utilizes advanced image classification techniques powered by machine learning to analyze images of crops. The application can accurately identify diseases and provide detailed information about the disease, enabling farmers to take timely action.
+**Solution:**  Arogya Krishi utilizes advanced image classification techniques powered by machine learning to analyze images of crops. The application can accurately identify diseases and provide detailed information about the disease, enabling farmers to take timely action.
 
 **2. Crop Recommendation:**
 
-Problem: Farmers may lack knowledge about which crops are best suited for their specific soil types and climatic conditions, leading to poor crop choices and low productivity.
-Solution: The application offers crop recommendation features based on soil analysis and environmental factors. By analyzing soil characteristics and local climate data, Arogya Krishi suggests optimal crops that can thrive in the given conditions, enhancing productivity and profitability.
+**Problem:** Farmers may lack knowledge about which crops are best suited for their specific soil types and climatic conditions, leading to poor crop choices and low productivity.
+
+**Solution:** The application offers crop recommendation features based on soil analysis and environmental factors. By analyzing soil characteristics and local climate data, Arogya Krishi suggests optimal crops that can thrive in the given conditions, enhancing productivity and profitability.
 
 **3.) Fertilizer Recommendations:**
 
-Problem: Farmers often face challenges in determining the right type and amount of fertilizers to use, which can lead to overuse or underuse, affecting crop health and the environment.
-Solution: The application generates tailored fertilizer recommendations based on the specific crop being cultivated, soil health, and environmental conditions. This helps farmers optimize their fertilizer usage, improving crop yields while minimizing environmental impact.
+**Problem:** Farmers often face challenges in determining the right type and amount of fertilizers to use, which can lead to overuse or underuse, affecting crop health and the environment.
+
+**Solution:** The application generates tailored fertilizer recommendations based on the specific crop being cultivated, soil health, and environmental conditions. This helps farmers optimize their fertilizer usage, improving crop yields while minimizing environmental impact.
 
 **4. Weather Data Integration:**
 
-Problem: Farmers need access to real-time weather data to make informed decisions about planting, irrigation, and harvesting. Lack of timely weather information can lead to crop losses.
-Solution: Arogya Krishi integrates weather data from reliable sources, providing farmers with current weather conditions, forecasts, and alerts. This information helps farmers plan their activities more effectively, reducing risks associated with adverse weather.
+**Problem:** Farmers need access to real-time weather data to make informed decisions about planting, irrigation, and harvesting. Lack of timely weather information can lead to crop losses.
+
+**Solution:** Arogya Krishi integrates weather data from reliable sources, providing farmers with current weather conditions, forecasts, and alerts. This information helps farmers plan their activities more effectively, reducing risks associated with adverse weather.
 
 **6. User-Friendly Interface:**
 
-Problem: Many agricultural technologies are complex and difficult for farmers to use, especially those with limited technical knowledge.
-Solution: Arogya Krishi is designed with a user-friendly interface that simplifies navigation and usage. It provides clear instructions and visual aids, making it accessible to farmers of all backgrounds.
+**Problem:** Many agricultural technologies are complex and difficult for farmers to use, especially those with limited technical knowledge.
+
+**Solution:** Arogya Krishi is designed with a user-friendly interface that simplifies navigation and usage. It provides clear instructions and visual aids, making it accessible to farmers of all backgrounds.
 
 **7. Community and Knowledge Sharing:**
 
-Problem: Farmers often work in isolation and may lack access to shared knowledge and experiences from their peers.
-Solution: The application can facilitate community engagement by allowing users to share their experiences, tips, and best practices. This fosters a sense of community and encourages collaborative learning among farmers.
+**Problem:** Farmers often work in isolation and may lack access to shared knowledge and experiences from their peers.
+
+**Solution:** The application can facilitate community engagement by allowing users to share their experiences, tips, and best practices. This fosters a sense of community and encourages collaborative learning among farmers.
 
   
 ## 🧐 Features  (ArogyaKrishi Comes with) :
