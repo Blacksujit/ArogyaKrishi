@@ -340,7 +340,7 @@ docker-compose up --build
 ```
 
 
-###🪄 This command will:
+### 🪄 This command will:
 
 **- Build the Docker image defined in the `Dockerfile`.**
 **- Start the web application and the database service defined in `docker-compose.yml`.**
