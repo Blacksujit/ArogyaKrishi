@@ -255,13 +255,19 @@ Solution: The application can facilitate community engagement by allowing users 
 git clone https://github.com/Blacksujit/ArogyaKrishi.git
 ```
 
-<p>2. Train The Models</p>
+<p>2. Install Required Dependencies:
+
+```
+pip install requirements.txt
+```
+
+<p>3. Train The Models</p>
 
 ```
 run crop_prediction_based_on_numerical_value.ipynb
 ```
 
-<p>3. save the Pretrained Models</p>
+<p>4. save the Pretrained Models</p>
 
 ```
 model/
@@ -270,13 +276,13 @@ model/
    etc
 ```
 
-<p>4. create the dotenv File at root of Project</p>
+<p>5. create the dotenv File at root of Project</p>
 
 ```
 .env
 ```
 
-<p>5. Add Your API Key</p>
+<p>6. Add Your API Key</p>
 
 ```
 OPEN_WEATHER_APIKEY=YOUR_WEATHER_API_KEY
@@ -284,7 +290,7 @@ HUGGINGFACE_LOGIN_TOKEN=YOUR_HUGGING_FACE_TOKEN
 
 ```
 
-<p>6. Run the Project</p>
+<p>7. Run the Project</p>
 
 ```
 python app.py 
