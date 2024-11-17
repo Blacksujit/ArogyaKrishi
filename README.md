@@ -10,7 +10,7 @@
 ## 🌟This is our Project or prototype development to the SIH Hackathon 2024
 
 
-## 🧾🧾 Table of Contents:
+## 🧾🧾 Table of Contents
 
 - [Problem Statement ID](#-problem-statement-id-sih---1638)
 - [Our Approach](#-our-approach-)
