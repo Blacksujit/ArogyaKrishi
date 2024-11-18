@@ -42,7 +42,7 @@ Theme - Agri&amp;tech Background: Crop diseases can devastate yields leading to 
 
 2.) begain the searching with the each segement in the research papaers , you can visit [kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) , and [UCI Machine learning Datasets](https://archive.ics.uci.edu/dataset/486/rice+leaf+diseases) , for the references and datasets,
 
-3.) Then for the inspiration purpose we look for the several projects and repositories  available on the github and internet , you can visit , these repositories , [repo1](https://github.com/Blacksujit/Crop-Disease-Detection) , and 
+3.) Then for the inspiration purpose we have reviewed and looked several projects and repositories  available on the github and internet , you can visit , these repositories , [repo1](https://github.com/Blacksujit/Crop-Disease-Detection) , and 
  [repo2](https://github.com/Blacksujit/Green-Points) , [repo3
 ](https://github.com/Blacksujit/Harvestify).
 
