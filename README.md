@@ -238,7 +238,7 @@ Arogya Krishi is a comprehensive agricultural application designed to address va
 
 *   Flask
 *   Model development Pipeline
-*   Machinery Learning
+*   Machine Learning
 *   Python
 *   transformers
 *   deep learning
