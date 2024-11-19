@@ -434,7 +434,7 @@ matches the Project requirements and follow all the guidelines we will happy to 
    git commit -m 'Add some feature'
    ```
 
-6. Push to the branch:
+6. Push changes to the local branch:
    
    ```bash
    git push origin feature/YourFeature
