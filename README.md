@@ -225,7 +225,7 @@ Arogya Krishi is a comprehensive agricultural application designed to address va
 **Here're some of the project's best features:**
 
 *   Multi Crop Disease Prediction .
-*   Fertilizer Recommendation
+*   prediction with Fertilizer Recommendation.
 *   Realtime Crop Disease Analysis Dashboard
 *   Soil Type Classification
 *   Farmer Data Tracking
