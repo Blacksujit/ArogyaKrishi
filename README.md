@@ -179,7 +179,7 @@ https://github.com/user-attachments/assets/129d96a3-861c-46a2-99bd-3d54791d74ac
 **Arogya Krishi is an agricultural application that addresses critical challenges faced by farmers, including crop disease detection, optimal crop recommendations, and soil health assessment. It provides tailored fertilizer suggestions and integrates real-time weather data to help farmers make informed decisions. With a user-friendly interface and community engagement features, Arogya Krishi empowers farmers to enhance productivity and sustainability in their agricultural practices.**
 
 
-### Arogya Krishi: Problem Descriptions and Solutions
+### Arogya Krishi: Problem Description and Solutions
 
 Arogya Krishi is a comprehensive agricultural application designed to address various challenges faced by farmers and agricultural stakeholders. Below are the key problems it addresses and the solutions it provides:
 
