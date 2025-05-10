@@ -1,4 +1,4 @@
-<h1 align="center" id="title">🌾 ArogyaKrishi 🌾 </h1>
+<h1 align="center" id="title"> 🌾 ArogyaKrishi 🌾 </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b22e194-0e53-41a1-a33c-0a0b204e8999" alt="image">
