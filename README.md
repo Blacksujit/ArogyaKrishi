@@ -1,4 +1,4 @@
-<h1 align="center" id="title"> 🌾 ArogyaKrishi 🌾 </h1>
+<h1 align="center" id="title">🌾 ArogyaKrishi 🌾 </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b22e194-0e53-41a1-a33c-0a0b204e8999" alt="image">
@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/Blacksujit/ArogyaKrishi/image?forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
-## 🌟This is our Project or prototype development to the SIH Hackathon 2024:
+## 🌟This is our Project or prototype development to the SIH Hackathon 2024
 
 
 ## 🧾🧾 Table of Contents:
@@ -31,18 +31,20 @@
 - [License](#️-license)
 
 
-###  👉 Problem statement ID: SIH - 1638:
+###  👉 Problem statement ID: SIH - 1638 
 
-Theme - Agri&amp;tech Background: Crop diseases can devastate yields leading to significant financial losses for farmers. Early detection and timely intervention are crucial for effective management. Description: Develop an AI-driven system that analyzes crop images and environmental data to predict potential disease outbreaks. This system will provide farmers with actionable insights and treatment recommendations to mitigate risks. Expected Solution: A mobile and web-based application that utilizes machine learning algorithms to identify crop diseases and suggest preventive measures and treatments based on real-time data.
+Theme - Agri&tech 
+
+Background: Crop diseases can devastate yields leading to significant financial losses for farmers. Early detection and timely intervention are crucial for effective management. Description: Develop an AI-driven system that analyzes crop images and environmental data to predict potential disease outbreaks. This system will provide farmers with actionable insights and treatment recommendations to mitigate risks. Expected Solution: A mobile and web-based application that utilizes machine learning algorithms to identify crop diseases and suggest preventive measures and treatments based on real-time data.
 
 
-### 💡 Our Approach :(Novelty)
+### 💡 Our Approach :
 
 1.) Divided  the problem statement into chunks and pieces .
 
 2.) begain the searching with the each segement in the research papaers , you can visit [kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) , and [UCI Machine learning Datasets](https://archive.ics.uci.edu/dataset/486/rice+leaf+diseases) , for the references and datasets,
 
-3.) Then for the inspiration purpose we have reviewed and looked several projects and repositories  available on the github and internet , you can visit , these repositories , [repo1](https://github.com/Blacksujit/Crop-Disease-Detection) , and 
+3.) Then for the inspiration purpose we look for the several projects and repositories  available on the github and internet , you can visit , these repositories , [repo1](https://github.com/Blacksujit/Crop-Disease-Detection) , and 
  [repo2](https://github.com/Blacksujit/Green-Points) , [repo3
 ](https://github.com/Blacksujit/Harvestify).
 
@@ -143,11 +145,7 @@ Arogya_Krishi_MVP/
 
 ### 🕸️📲Web App:
 
- 
-https://github.com/user-attachments/assets/de859af0-d5c0-471a-b195-9608bb8538c5
-
-
-### <p>Explanation youtube Video :- Experience ArogyaKrishi in action  <a href="https://youtu.be/yBajAQB9Kas?si=ilwix0wwiN533UYi" target="_blank">Watch the Demo   (Web APP Demo) </a></p>
+<p>Experience ArogyaKrishi in action: <a href="https://youtu.be/yBajAQB9Kas?si=ilwix0wwiN533UYi" target="_blank">Watch the Demo   (Web APP Demo) </a></p>
 
 ### 📲 App Demo : (Under Developement Phase)
 
@@ -165,12 +163,13 @@ https://github.com/user-attachments/assets/129d96a3-861c-46a2-99bd-3d54791d74ac
 
 2.	Chinese cabbage leaf disease prediction and classification using Naive Bayes VGG-19 convolution deep neural network (2024) : https://ieeexplore.ieee.org/document/10407076
 
-3.	Image-based crop disease detection with federated learning (2023): https://www.nature.com/articles/s41598-023-46218-5
+3.	Image-based crop disease detection with federated learning (2023): https://www.nature.com/articles/ s41598-023-46218-5
 
-4.	Deep learning-based crop disease prediction with web application (2023) : https://www.sciencedirect.com/science/article/pii/S2666154323002715
+4.	Deep learning-based crop disease prediction with web application (2023) : https://www.
+sciencedirect.com/science/article/pii/S2666154323002715
 
 5.	Seasonal Crops Disease Prediction and Classification Using Deep Convolutional Encoder Network (2019): https://link.springer.com/article/10.1007/s00034-019-01041-0
-   Cropin app link: https://www.cropin.com/farming-apps#:~:text=Cropin%20Grow%20is%20a%20robust, stakeholders%20in%20the%20agri%2Decosystem.
+   Cropin app link: https://www.cropin.com/farming-   apps#:~:text=Cropin%20Grow%20is%20a%20robust, stakeholders%20in%20the%20agri%2Decosystem.
 
 
 
@@ -179,45 +178,40 @@ https://github.com/user-attachments/assets/129d96a3-861c-46a2-99bd-3d54791d74ac
 **Arogya Krishi is an agricultural application that addresses critical challenges faced by farmers, including crop disease detection, optimal crop recommendations, and soil health assessment. It provides tailored fertilizer suggestions and integrates real-time weather data to help farmers make informed decisions. With a user-friendly interface and community engagement features, Arogya Krishi empowers farmers to enhance productivity and sustainability in their agricultural practices.**
 
 
-### Arogya Krishi: Problem Description and Solutions
+### Arogya Krishi: Problem Descriptions and Solutions
 
 Arogya Krishi is a comprehensive agricultural application designed to address various challenges faced by farmers and agricultural stakeholders. Below are the key problems it addresses and the solutions it provides:
 
 **1. Crop Disease Detection:**
 
-**Problem:** Farmers often struggle to identify diseases affecting their crops, leading to reduced yields and economic losses. Early detection is crucial for effective management and treatment.
+Problem: Farmers often struggle to identify diseases affecting their crops, leading to reduced yields and economic losses. Early detection is crucial for effective management and treatment.
 
-**Solution:**  Arogya Krishi utilizes advanced image classification techniques powered by machine learning to analyze images of crops. The application can accurately identify diseases and provide detailed information about the disease, enabling farmers to take timely action.
+Solution: Arogya Krishi utilizes advanced image classification techniques powered by machine learning to analyze images of crops. The application can accurately identify diseases and provide detailed information about the disease, enabling farmers to take timely action.
 
 **2. Crop Recommendation:**
 
-**Problem:** Farmers may lack knowledge about which crops are best suited for their specific soil types and climatic conditions, leading to poor crop choices and low productivity.
-
-**Solution:** The application offers crop recommendation features based on soil analysis and environmental factors. By analyzing soil characteristics and local climate data, Arogya Krishi suggests optimal crops that can thrive in the given conditions, enhancing productivity and profitability.
+Problem: Farmers may lack knowledge about which crops are best suited for their specific soil types and climatic conditions, leading to poor crop choices and low productivity.
+Solution: The application offers crop recommendation features based on soil analysis and environmental factors. By analyzing soil characteristics and local climate data, Arogya Krishi suggests optimal crops that can thrive in the given conditions, enhancing productivity and profitability.
 
 **3.) Fertilizer Recommendations:**
 
-**Problem:** Farmers often face challenges in determining the right type and amount of fertilizers to use, which can lead to overuse or underuse, affecting crop health and the environment.
-
-**Solution:** The application generates tailored fertilizer recommendations based on the specific crop being cultivated, soil health, and environmental conditions. This helps farmers optimize their fertilizer usage, improving crop yields while minimizing environmental impact.
+Problem: Farmers often face challenges in determining the right type and amount of fertilizers to use, which can lead to overuse or underuse, affecting crop health and the environment.
+Solution: The application generates tailored fertilizer recommendations based on the specific crop being cultivated, soil health, and environmental conditions. This helps farmers optimize their fertilizer usage, improving crop yields while minimizing environmental impact.
 
 **4. Weather Data Integration:**
 
-**Problem:** Farmers need access to real-time weather data to make informed decisions about planting, irrigation, and harvesting. Lack of timely weather information can lead to crop losses.
-
-**Solution:** Arogya Krishi integrates weather data from reliable sources, providing farmers with current weather conditions, forecasts, and alerts. This information helps farmers plan their activities more effectively, reducing risks associated with adverse weather.
+Problem: Farmers need access to real-time weather data to make informed decisions about planting, irrigation, and harvesting. Lack of timely weather information can lead to crop losses.
+Solution: Arogya Krishi integrates weather data from reliable sources, providing farmers with current weather conditions, forecasts, and alerts. This information helps farmers plan their activities more effectively, reducing risks associated with adverse weather.
 
 **6. User-Friendly Interface:**
 
-**Problem:** Many agricultural technologies are complex and difficult for farmers to use, especially those with limited technical knowledge.
-
-**Solution:** Arogya Krishi is designed with a user-friendly interface that simplifies navigation and usage. It provides clear instructions and visual aids, making it accessible to farmers of all backgrounds.
+Problem: Many agricultural technologies are complex and difficult for farmers to use, especially those with limited technical knowledge.
+Solution: Arogya Krishi is designed with a user-friendly interface that simplifies navigation and usage. It provides clear instructions and visual aids, making it accessible to farmers of all backgrounds.
 
 **7. Community and Knowledge Sharing:**
 
-**Problem:** Farmers often work in isolation and may lack access to shared knowledge and experiences from their peers.
-
-**Solution:** The application can facilitate community engagement by allowing users to share their experiences, tips, and best practices. This fosters a sense of community and encourages collaborative learning among farmers.
+Problem: Farmers often work in isolation and may lack access to shared knowledge and experiences from their peers.
+Solution: The application can facilitate community engagement by allowing users to share their experiences, tips, and best practices. This fosters a sense of community and encourages collaborative learning among farmers.
 
   
 ## 🧐 Features  (ArogyaKrishi Comes with) :
@@ -225,7 +219,7 @@ Arogya Krishi is a comprehensive agricultural application designed to address va
 **Here're some of the project's best features:**
 
 *   Multi Crop Disease Prediction .
-*   prediction with Fertilizer Recommendation.
+*   Fertilizer Recommendation
 *   Realtime Crop Disease Analysis Dashboard
 *   Soil Type Classification
 *   Farmer Data Tracking
@@ -242,7 +236,7 @@ Arogya Krishi is a comprehensive agricultural application designed to address va
 
 *   Flask
 *   Model development Pipeline
-*   Machine Learning
+*   Machinery Learning
 *   Python
 *   transformers
 *   deep learning
@@ -255,7 +249,7 @@ Arogya Krishi is a comprehensive agricultural application designed to address va
 *   SQL-alchemy
 
 
-## 🛠️ Installation Steps , To run with git (Manuall Process):
+## 🛠️ Installation Steps:
 
 <p>1. Clone the Project</p>
 
@@ -263,19 +257,13 @@ Arogya Krishi is a comprehensive agricultural application designed to address va
 git clone https://github.com/Blacksujit/ArogyaKrishi.git
 ```
 
-<p>2. Install Required Dependencies:
-
-```
-pip install requirements.txt
-```
-
-<p>3. Train The Models</p>
+<p>2. Train The Models</p>
 
 ```
 run crop_prediction_based_on_numerical_value.ipynb
 ```
 
-<p>4. save the Pretrained Models</p>
+<p>3. save the Pretrained Models</p>
 
 ```
 model/
@@ -284,13 +272,13 @@ model/
    etc
 ```
 
-<p>5. create the dotenv File at root of Project</p>
+<p>4. create the dotenv File at root of Project</p>
 
 ```
 .env
 ```
 
-<p>6. Add Your API Key</p>
+<p>5. Add Your API Key</p>
 
 ```
 OPEN_WEATHER_APIKEY=YOUR_WEATHER_API_KEY
@@ -298,77 +286,11 @@ HUGGINGFACE_LOGIN_TOKEN=YOUR_HUGGING_FACE_TOKEN
 
 ```
 
-<p>7. Run the Project</p>
+<p>6. Run the Project</p>
 
 ```
 python app.py 
 ```
-
-## ✨🔮 To Run Locally Using Docker (preferred way) :
-
-### Prerequisites
-
-Before you begin, ensure you have the following installed on your machine:
-
-- [Docker](https://www.docker.com/get-started)
-- [Docker Compose](https://docs.docker.com/compose/install/)
-
-### Setup Instructions:
-
-### Step 1: Clone the Repository
-
-``Clone the project repository to your local machine:``
-
-
-```
-git clone https://github.com/Blacksujit/ArogyaKrishi.git
-```
-
-
-### Step 2: Create a `.env` File
-
-``Create a `.env` file in the root directory of the project and add your API keys:``
-
-```
-OPEN_WEATHER_APIKEY=YOUR_WEATHER_API_KEY
-HUGGINGFACE_LOGIN_TOKEN=YOUR_HUGGING_FACE_TOKEN
-```
-
-
-### Step 3: Build and Run the Docker Containers
-
-``Use Docker Compose to build and run the application:``
-
-```
-docker-compose up --build
-```
-
-
-### 🪄 This command will:
-
-**- Build the Docker image defined in the `Dockerfile`.**
-**- Start the web application and the database service defined in `docker-compose.yml`.**
-
-### Step 4: Access the Application
-
-``Once the containers are running, you can access the application in your web browser at:``
-
-http://localhost:5000
-
-
-### Step 5: Stopping the Application
-
-**To stop the application, press `CTRL + C` in the terminal where the Docker containers are running. You can also run:**
-
-
-```docker-compose down```
-
-### ⭕⭕ Notes:(IMP instructions)
-
-``YOUR_WEATHER_API_KEY and YOUR_HUGGING_FACE_TOKEN with your actual API keys in the .env file.``
-
-``Ensure that the requirements.txt file is present in your project directory with all necessary dependencies listed.``
-
 
 ## 📈 Feasibility Analysis:
 
@@ -377,7 +299,6 @@ http://localhost:5000
 •	**Scalability:** Supports multilingual features
 
 •	**Personalized Alerts**: Farmers get alerts based on crop type, region, and disease severity.
-
 
 ## ⚓ Potential Challenges & Risks:
 
@@ -420,33 +341,8 @@ http://localhost:5000
 
 ## 🍰 Contribution Guidelines:
 
-We welcome contributions!   please  create an  seperate branch and make your chnages and raise and PR if it
+We are Open For Contributions please  create an  seperate branch and make your chnages and raise and PR if it
 matches the Project requirements and follow all the guidelines we will happy to merge it .
-
-
-1. ``Fork the repository.``
-
-2. Create your feature branch:
-   
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-4. Commit your changes:
-   
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-
-6. Push changes to the local branch:
-   
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-8. ``Open a pull request.``
-
-
 
 ### ✨ Contributors: (TEAM ANANT)
 

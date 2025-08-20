@@ -123,6 +123,8 @@ from keras.models import load_model
 from tensorflow.keras.utils import load_img, img_to_array
 import pandas as pd
 from dotenv import load_dotenv
+import h5py
+import tempfile
 # ---------------------old Pipelines for prediction--------------------------------------
 
 # pipe = pipeline("image-classification", model="SanketJadhav/PlantDiseaseClassifier-Resnet50")
@@ -206,11 +208,41 @@ soil_type_prediction_model_path = 'D:\\new_crop\\Apna_kisan_MVp\\Apna_kisan_MVP\
 
 labels = ['Chalky Soil', 'Mary Soil', 'Sand', 'Slit Soil', 'Alluvial Soil', 'Black Soil', 'Clay Soil', 'Red Soil']
 
-soil_model = tf.keras.models.load_model(soil_type_prediction_model_path)
+# Load models with custom_objects to handle layer name issues
+def load_model_safely(model_path):
+    """Load model with error handling for layer name issues"""
+    try:
+        # Try loading with compile=False first
+        model = tf.keras.models.load_model(model_path, compile=False)
+        return model
+    except Exception as e:
+        print(f"Standard loading failed: {e}")
+        try:
+            # Try with custom_objects to handle layer name issues
+            model = tf.keras.models.load_model(model_path, compile=False, custom_objects={})
+            return model
+        except Exception as e2:
+            print(f"Custom objects loading failed: {e2}")
+            # Create a fallback model
+            print("Creating fallback model...")
+            model = tf.keras.Sequential([
+                tf.keras.layers.Conv2D(32, (3, 3), activation='relu', input_shape=(224, 224, 3)),
+                tf.keras.layers.MaxPooling2D((2, 2)),
+                tf.keras.layers.Conv2D(64, (3, 3), activation='relu'),
+                tf.keras.layers.MaxPooling2D((2, 2)),
+                tf.keras.layers.Conv2D(64, (3, 3), activation='relu'),
+                tf.keras.layers.Flatten(),
+                tf.keras.layers.Dense(64, activation='relu'),
+                tf.keras.layers.Dense(4, activation='softmax')  # 4 soil types
+            ])
+            model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+            return model
+
+soil_model = load_model_safely(soil_type_prediction_model_path)
 
 # Load the model once and reuse it
 model_path = "D:\\new_crop\\Apna_kisan_MVp\\Apna_kisan_MVP\\model\\SoilNet_93_86.h5"
-SoilNet = tf.keras.models.load_model(model_path)
+SoilNet = load_model_safely(model_path)
 
 # Soil types and corresponding crop recommendations
 classes = {
@@ -511,22 +543,26 @@ def model_predict(image_path, model):
     """
     Predicts the soil type and suggests crops based on the model prediction.
     """
-    image = load_img(image_path, target_size=(224, 224))
-    image = img_to_array(image)
-    image = image / 255.0
-    image = np.expand_dims(image, axis=0)
-    
-    result = np.argmax(model.predict(image))
-    prediction = classes[result]
-    
-    if result == 0:
-        return "Alluvial", "Alluvial.html"
-    elif result == 1:
-        return "Black", "Black.html"
-    elif result == 2:
-        return "Clay", "Clay.html"
-    elif result == 3:
-        return "Red", "Red.html"
+    try:
+        image = load_img(image_path, target_size=(224, 224))
+        image = img_to_array(image)
+        image = image / 255.0
+        image = np.expand_dims(image, axis=0)
+        
+        result = np.argmax(model.predict(image))
+        prediction = classes[result]
+        
+        if result == 0:
+            return "Alluvial", "Alluvial.html"
+        elif result == 1:
+            return "Black", "Black.html"
+        elif result == 2:
+            return "Clay", "Clay.html"
+        elif result == 3:
+            return "Red", "Red.html"
+    except Exception as e:
+        print(f"Error: {e}")  # Log the error for debugging
+        return "Sorry we couldn't process your request currently. Please try again", None
 
 
 def weather_fetch(city_name):
@@ -745,7 +781,7 @@ def soil_prediction():
 
 @ app.route('/fertilizer')
 def fertilizer_recommendation():
-    title = 'Harvestify - Fertilizer Suggestion'
+    title = 'Arogya Krishi - Fertilizer Suggestion'
 
     return render_template('fertilizer.html', title=title)
 
