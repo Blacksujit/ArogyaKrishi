@@ -145,11 +145,14 @@ Arogya_Krishi_MVP/
 
 ### 🕸️📲Web App:
 
-<p>Experience ArogyaKrishi in action: <a href="https://youtu.be/yBajAQB9Kas?si=ilwix0wwiN533UYi" target="_blank">Watch the Demo   (Web APP Demo) </a></p>
+**Video Explanation**
 
-### 📲 App Demo (Under Development Phase)
 
-<p>Mobile app demo coming soon! <a href="#" target="_blank">Stay tuned for updates</a></p>
+<p>Experience ArogyaKrishi in action: <a href="https://youtu.be/3QF3YqDrADk?si=-2UMqBPD-tG8_xc-" target="_blank">Watch the Demo   (Web APP Demo) </a></p>
+
+### 📲 App Demo : (Under Developement Phase)
+
+https://github.com/user-attachments/assets/129d96a3-861c-46a2-99bd-3d54791d74ac
 
 ## 👓 Presentation :
 
